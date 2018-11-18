@@ -141,7 +141,7 @@ int main(void)
     		read(tab2[i][1],&tab1[i][1],i*sizeof(int));
     		write(tab1[i][0],&tab2[i][0],i*sizeof (int));
     		i++;
-    		oke
+    		
     		
     	}
 
