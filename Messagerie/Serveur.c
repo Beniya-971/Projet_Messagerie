@@ -84,6 +84,7 @@ int main(void)
 {
 	int tab1[5][2];
 	int tab2[5][2];
+	char message[256];
 	int i=0;
 	int sock_contact; 
 	int sock_connectee; 
